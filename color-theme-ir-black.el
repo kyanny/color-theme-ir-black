@@ -58,7 +58,7 @@
          (gui-element ,(color *background* "#D4D0C8"))
          (region ,(color nil *region*))
          (mode-line ,(color *background* "grey75"))
-         (highlight ,(color nil *current-line*))
+         (highlight ,(color nil "#660000"))
          (highline-face ,(color nil *current-line*))
          (italic ((t (nil))))
          (left-margin ((t (nil))))
